@@ -1,0 +1,30 @@
+Hardware:
+
++ SFE Red Board (https://www.sparkfun.com/products/13293)
++ HamShield (http://hamshield.com/) with RDA1846 RF TXR (2m, 1.25m, 70cm)
++ SFE button shield (https://www.sparkfun.com/products/13293)
+
+Pins:
+
+ A0: LCD shield buttons
+ A1: nCS for the RDA1846
+ A2: analog input from HamShield
+ A3: RST for RDA1846
+ A4: DAT for RDA1846
+ A5: CLK for RDA1846
+ D0:
+ D1:
+ D2: 
+ D3:
+ D4: LCD bit 4
+ D5: LCD bit 5
+ D6: LCD bit 6
+ D7: LCD bit 7
+ D8: LCD RS
+ D9: LCD enable
+D10: LCD backlight brightness adjust
+D11:
+D12:
+D13:
+D14:
+D15:
